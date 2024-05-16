@@ -1,4 +1,4 @@
-package com.isaac.crudeapp.rest.controllers.models;
+package com.isaac.crudeapp.rest.entity;
 
 
 import jakarta.persistence.*;

@@ -1,7 +1,7 @@
 package com.isaac.crudeapp.rest.controllers;
 
 import com.isaac.crudeapp.rest.Repo.UserRepo;
-import com.isaac.crudeapp.rest.controllers.models.User;
+import com.isaac.crudeapp.rest.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
